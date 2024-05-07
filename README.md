@@ -2,7 +2,7 @@
 
 (![이미지 대체 텍스트](이미지 주소))
 
-키티.jpg
+(![키티](https://github.com/Jisoo0419/test-1/commit/6cc1e2cdd33cdc8b17aa8eaa9f76d3f5ff3c94bf)))
 
 ## test-1 제목 2
 ### test-1 제목3(밑줄 없음)
