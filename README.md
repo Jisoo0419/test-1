@@ -47,4 +47,4 @@ let i = 0;
 
 <a> https://www.naver.com </a>
 <a herf = "주소">네이버</a>
-<a href+"주소" alt="설명글">네이버</a>
+<a href = "주소" alt="설명글">네이버</a>
